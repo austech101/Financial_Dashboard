@@ -15,3 +15,7 @@ Power BI – Built the interactive dashboard for data analysis and visualization
 - Loan Officer Productivity – Highlights top-performing officers based on applications processed.
 - Workflow Status – Pie chart for tracking loan approval, disbursement, and rejection rates.
 - Transaction Trendline – Analyzes transaction volume trends over time.
+
+## Dashboard Overview
+![Financial Dashboard](https://github.com/user-attachments/assets/4cd3838f-2e1d-4831-8372-9877d81bf1e9)
+
