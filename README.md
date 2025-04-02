@@ -12,7 +12,7 @@ Power BI – Built the interactive dashboard for data analysis and visualization
 - Total Loan Amount Tracking – Displays total disbursed loans with percentage changes.
 - Loan Application Insights – Monitors the number of applicants and average application amount.
 - Branch-Wise Loan Performance – Compares loan values and counts across different branches.
-- Loan Officer Productivity – Highlights top-performing officers based on applications processed.
+- Staff Productivity – Highlights top-performing officers based on applications processed.
 - Workflow Status – Pie chart for tracking loan approval, disbursement, and rejection rates.
 - Transaction Trendline – Analyzes transaction volume trends over time.
 
